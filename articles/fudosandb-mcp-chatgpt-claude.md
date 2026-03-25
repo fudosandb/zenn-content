@@ -3,7 +3,7 @@ title: "ChatGPTやClaudeから不動産データを取得する方法（FUDOSAN 
 emoji: "🏠"
 type: "tech"
 topics: ["mcp", "claude", "chatgpt", "不動産", "api"]
-published: true
+published: false
 ---
 
 ## やりたいこと
